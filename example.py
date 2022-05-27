@@ -10,7 +10,7 @@ from scipy.stats import skew, kurtosis
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
 WINDOWS_LENGTH = 301
-PATH = '/home/fede/Projects/Federico/PdM/ANSIA/data'
+PATH = 'data'
 STATS = 9
 FEAT = 7
 
